@@ -18,7 +18,6 @@
     "yandex.music"
   ],
   "dependencies": {
-    "promise": "^6.0.1",
-    "restler": "^3.2.2"
+    "js-md5": "^0.7.3"
   }
 }
